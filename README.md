@@ -1,32 +1,131 @@
 <h1 align="center">Hi 👋, I'm Ifra Saleem</h1>
 <p align="center">A passionate software engineer 🧑‍💻 with a focus on Python. My expertise spans Django, FastAPI, Flask, Databases, DevOps, and Generative AI. I specialize in building robust backend systems, optimizing performance, and automating processes. I'm also exploring CI/CD, infrastructure management, and tools like Langchain and LlamaIndex to integrate AI into my solutions.</p>
 
----
+<h2><i>💻 Tech Stack and Tools</i></h2>
 
-<h3 align="center">Technologies I usually work with</h3>
+<table width="100">
+
+<tr>
+    <td align='center'>
+        <img src="https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfd36e68ac7a0f3b2/651b29bb3671b45abcc7e4c8/Generative_AI_(2).png?disable=upscale&width=1200&height=630&fit=crop" alt="Generative AI"  width="150px" height="100px">
+    </td>
+    <td align='center' width="190">
+        <img src="https://admin.bentoml.com/uploads/simple_rag_workflow_091648ef39.png" alt="RAG Application"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrTWz33b86nfIrgaW9jE_t-7VCcqJtjL-pg&s" alt="Numpy"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="Pandas"  width="150px" height="100px">
+    </td>
+     <td align='center'>
+        <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/18061/course_18061_image.png" alt="Matplotlib"  width="150px" height="100px">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center' width="190">
+        <img src="./Images/JS.jpg" alt="Javascript" width="150px" height="100px">
+    </td>
+    <td align='center' width="190">
+        <img src="./Images/TS.png" alt="Typescript" width="150px" height="100px">
+    </td>
+     <td align='center' width="190">
+        <img src="./Images/react.webp" alt="React-JS" width="150px" height="100px">
+    </td>
+     <td align='center' width="190">
+        <img src="./Images/git.webp" alt="Git" width="150px" height="100px">
+    </td>
+     <td align='center' width="190">
+        <img src="./Images/cloud-firestore.jpg" alt="Cloud-Firestore" width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/python.png" alt="Python"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/node-js.webp" alt="Node-JS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/express-js.png" alt="Express-JS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/mongo-db.png" alt="Mongo-DB"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/firebase.png" alt="Firebase"  width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/html.webp" alt="HTML"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/css2.png" alt="CSS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/heroku.svg" alt="Heroku"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/vs-code.jpg" alt="VS-CODE"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/postman.png" alt="Postman"  width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/graphql.png" alt="Graph-QL"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/react-native.png" alt="React-Native"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/dart.png" alt="Dart"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/Github.png" alt="Github"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/sass.png" alt="SASS"  width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/bootstrap.png" alt="Bootstrap 5"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/chakra.png" alt="Chakra-UI"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/IJ.png" alt="IntelliJ IDEA"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/linux.png" alt="Linux"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/scss.webp" alt="SCSS"  width="150px" height="100px">
+    </td>
+</tr>
+
+<tr>
+    <td align='center'>
+        <img src="./Images/oop.png" alt="OOP"  width="150px" height="100px">
+    </td>
+     <td align='center'>
+        <img src="./Images/DSA.jpg" alt="Data Structure & Algorithms"  width="150px" height="100px">
+    </td>
+</tr>
+
+</table>
+
+<br />
+<br />
+
+## Connect with Me 🤝
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="center">Feel free to connect with me to explore new possibilities and collaborations</h3>
-<p align="center">
-  <a href="https://www.instagram.com/ifra.saleem/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/instagram.png" alt="instagram" width="40" height="40"/></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/discord.png" alt="discord" width="40" height="40"/></a>
-  <a href="mailto:ifrasaleemcsengineer12@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/gmail.png" alt="gmail" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/ifra-saleem-066151214/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://medium.com/@ifrasaleemcsengineer12" target="_blank"><img src="https://img.icons8.com/ios-filled/50/medium.png" alt="medium" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/ifra-saleem-066151214/"><img src="logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ifrasaleemcsengineer12@gmail.com"><img src="logo=Gmail&logoColor=white"/></a>
 </p>
