@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ifra Saleem</h1>
 <p>A passionate software engineer 🧑‍💻 with a focus on Python. My expertise spans Django, FastAPI, Flask, Databases, DevOps, and Generative AI. I specialize in building robust backend systems, optimizing performance, and automating processes. I'm also exploring CI/CD, infrastructure management, and tools like Langchain and LlamaIndex to integrate AI into my solutions.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ifra-saleem-066151214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ifra-saleem-066151214/" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15604303/ifra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15604303/ifra" height="30" width="40" /></a>
-  <a href="https://medium.com/@ifrasaleemcsengineer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ifrasaleemcsengineer12" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
@@ -33,3 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifrasaleemcsengineer&show_icons=true&locale=en" alt="ifrasaleemcsengineer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifrasaleemcsengineer&" alt="ifrasaleemcsengineer" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ifra-saleem-066151214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ifra-saleem-066151214/" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/15604303/ifra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15604303/ifra" height="30" width="40" /></a>
+  <a href="https://medium.com/@ifrasaleemcsengineer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ifrasaleemcsengineer12" height="30" width="40" /></a>
+</p>
