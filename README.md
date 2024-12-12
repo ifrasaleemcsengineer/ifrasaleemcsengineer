@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifra Saleem</h1>
-<h3 align="center">A passionate software engineer 🧑‍💻 with a focus on Python. My expertise spans **Django**, **FastAPI**, **Flask**, **Databases**, **DevOps**, and **Generative AI**. I specialize in building robust backend systems, optimizing performance, and automating processes. I'm also exploring **CI/CD**, **infrastructure management**, and tools like **Langchain** and **LlamaIndex** to integrate AI into my solutions.</h3>
+<p>A passionate software engineer 🧑‍💻 with a focus on Python. My expertise spans **Django**, **FastAPI**, **Flask**, **Databases**, **DevOps**, and **Generative AI**. I specialize in building robust backend systems, optimizing performance, and automating processes. I'm also exploring **CI/CD**, **infrastructure management**, and tools like **Langchain** and **LlamaIndex** to integrate AI into my solutions.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
